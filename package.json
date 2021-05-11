@@ -72,6 +72,7 @@
     "open": "^8.0.2",
     "react-docgen-typescript": "^1.21.0",
     "react-dom": "^16.14.0",
+    "react-hook-form": "^7.5.2",
     "rimraf": "^3.0.2",
     "simple-git": "^2.36.1",
     "syncpack": "^5.7.11",
